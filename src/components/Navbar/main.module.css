@@ -1,0 +1,17 @@
+.container {
+  width: 100vw;
+  margin: 0%;
+  border: 0%;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.button {
+  margin-right: 5%;
+}

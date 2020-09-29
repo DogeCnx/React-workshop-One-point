@@ -1,0 +1,16 @@
+.container {
+  width: 100vw;
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  padding-bottom: 2rem;
+}
+.contentItem {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.SearchBox {
+  display: flex;
+  align-items: center;
+}

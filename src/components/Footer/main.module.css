@@ -1,0 +1,16 @@
+.container {
+  width: 100vw;
+  height: 100px;
+  margin: 0%;
+  border: 0%;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  margin-right: 5%;
+}
+.Copyright {
+  margin: 5%;
+}
